@@ -1,4 +1,4 @@
-package com.labforward.api.common;
+package com.greeting.api.common;
 
 import org.junit.Before;
 import org.junit.runner.RunWith;

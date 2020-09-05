@@ -1,4 +1,4 @@
-package com.labforward.api.hello;
+package com.greeting.api.hello;
 
 
 import org.junit.Assert;

@@ -1,4 +1,4 @@
-package com.labforward.api.hello;
+package com.greeting.api.hello;
 
 import static com.greeting.api.constants.Constants.DEFAULT_ID;
 import static com.greeting.api.constants.Constants.DEFAULT_MESSAGE;
@@ -26,8 +26,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MvcResult;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.greeting.api.common.MVCIntegrationTest;
 import com.greeting.api.hello.domain.Greeting;
-import com.labforward.api.common.MVCIntegrationTest;
 
 
 @AutoConfigureMockMvc
